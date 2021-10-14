@@ -1,10 +1,10 @@
 # Hello_World
-I made a readme-edits branch.\n
+I made a readme-edits branch.
 
 
-* my favorite food *\n
-  1.steak\n
-  2.eggs\n
-  3.donuts\n
+* my favorite food *
+  1.steak
+  2.eggs
+  3.donuts
  ** this is the extent of my section heading practice**
  
